@@ -1,0 +1,8 @@
+com/sti/election_system_backend/ElectionSystemBackendApplication.class
+com/sti/election_system_backend/model/Region.class
+com/sti/election_system_backend/service/RegionService.class
+com/sti/election_system_backend/repository/RegionRepository.class
+com/sti/election_system_backend/model/Bureaux_votes.class
+com/sti/election_system_backend/controller/RegionController.class
+com/sti/election_system_backend/model/Arrondissement.class
+com/sti/election_system_backend/model/Departement.class

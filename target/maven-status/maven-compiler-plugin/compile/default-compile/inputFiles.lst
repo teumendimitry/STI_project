@@ -1,0 +1,8 @@
+/home/teumen/Documents/Projects/SpringBootProjects/election-system-backend/src/main/java/com/sti/election_system_backend/ElectionSystemBackendApplication.java
+/home/teumen/Documents/Projects/SpringBootProjects/election-system-backend/src/main/java/com/sti/election_system_backend/controller/RegionController.java
+/home/teumen/Documents/Projects/SpringBootProjects/election-system-backend/src/main/java/com/sti/election_system_backend/model/Arrondissement.java
+/home/teumen/Documents/Projects/SpringBootProjects/election-system-backend/src/main/java/com/sti/election_system_backend/model/Bureaux_votes.java
+/home/teumen/Documents/Projects/SpringBootProjects/election-system-backend/src/main/java/com/sti/election_system_backend/model/Departement.java
+/home/teumen/Documents/Projects/SpringBootProjects/election-system-backend/src/main/java/com/sti/election_system_backend/model/Region.java
+/home/teumen/Documents/Projects/SpringBootProjects/election-system-backend/src/main/java/com/sti/election_system_backend/repository/RegionRepository.java
+/home/teumen/Documents/Projects/SpringBootProjects/election-system-backend/src/main/java/com/sti/election_system_backend/service/RegionService.java
